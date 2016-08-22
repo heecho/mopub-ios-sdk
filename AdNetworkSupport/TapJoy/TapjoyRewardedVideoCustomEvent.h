@@ -6,7 +6,7 @@
 #endif
 
 /*
- * Certified with version 11.5.1 of the Tapjoy SDK.
+ * Certified with version 11.7.0 of the Tapjoy SDK.
  */
 
 @interface TapjoyRewardedVideoCustomEvent : MPRewardedVideoCustomEvent
